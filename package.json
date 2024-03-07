@@ -1,0 +1,15 @@
+{
+  "name": "bookshelf_api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "bookshelf",
+  "main": "src/sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quocviet",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
